@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is [Stanislav HLukhan] and I'm a frontend developer with experience in React.
+My name is Stanislav HLukhan and I'm a frontend developer with experience in React.
 
 ## About Me
 
