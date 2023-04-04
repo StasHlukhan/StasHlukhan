@@ -7,6 +7,7 @@ My name is Stanislav HLukhan and I'm a frontend developer with experience in Rea
 I have a passion for creating beautiful and responsive web interfaces. My main focus is on writing clean, maintainable, and reusable code that is easy to read and understand.
 
 I recently completed a React course and gained experience building web applications with the library. In addition, I have 2 months of commercial experience working on a team of developers to build and deploy websites for clients.
+![Animation of a developer typing on a computer](https://media.giphy.com/media/26BRzozg7VUjWzH8A/giphy.gif)
 
 ## My Skills
 
