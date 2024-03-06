@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Stanislav HLukhan and I'm a frontend developer with experience in React.
+My name is Stanislav Hlukhan and I'm a frontend developer with experience in React.
 
 ## About Me
 
@@ -21,17 +21,7 @@ I recently completed a React course and gained experience building web applicati
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
 
-## My Projects
-
-### [Portfolio Website]
-
-I created a personal portfolio website to showcase my skills and projects. The website is built with React and styled with CSS modules. You can view it [here](https://example.com).
-
-### [Shopping Cart]
-
-I built a shopping cart application with React and Redux. The application uses an API to fetch product data and allows users to add items to their cart and complete a purchase. You can view the code [here](https://github.com/username/shopping-cart).
-
 ## Contact Me
 
-You can reach me via email at [email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/username). I'm open to discussing new opportunities and collaborating on projects. Let's chat! 😊
+You can reach me via email at stasgluhan23@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/stanislav-hlukhan-395a79226/). I'm open to discussing new opportunities and collaborating on projects. Let's chat! 😊
 
